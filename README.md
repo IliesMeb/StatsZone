@@ -1,2 +1,2 @@
 # StatsZone
-Your favorite football/sport Ai
+Your favorite football/sport AI
